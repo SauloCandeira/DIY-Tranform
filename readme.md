@@ -1,12 +1,14 @@
 # Sobre o Projeto:
 
-Instruir pesssoas a utilização de programação e dispositivos IOT.
+Criação de uma automação para transformação de garrafas pet para filamento 3D
 
 # Sobre o Projeto:
-Estudos utilizando o drone DJI Tello + Python
 
-- SDK DJI-Tello
-- Python
+- Arduino
+- Ramps 1.4 
+- LCD
+- Driver
+- Nema 17
 
 ### FLUXOGRAMA/DIAGRAMA
 
@@ -32,29 +34,8 @@ A --> K[Tello-PY]
 <ul>
   
   <li>
-    <p><b><code>DOCUMENTS & MANUALS.</code></b></p>
-    <p><i>URL: https://www.ryzerobotics.com/tello/downloads</i></p>
-  </li> 
-  <li>
-    <p><b><code>Como PROGRAMAR o DJI TELLO - Novo DRONE da DJI - Brasil. </code></b></p>
-    <p><i>URL: https://www.youtube.com/watch?v=eDJmekMGb88 </i></p>
-  </li> 
-  <li>
-    <p><b><code>Tello com GPS! Função vGPS do aplicativo TelloFPV. </code></b></p>
-    <p><i>URL: https://www.youtube.com/watch?v=JsvNeJLfX5E&t=48s </i></p>
-  </li> 
-    <li>
-    <p><b><code>DJI Tello, Controlando o drone usando Python. </code></b></p>
-    <p><i>URL: https://www.youtube.com/watch?v=g0PWBT02InI </i></p>
-  </li> 
-  <li>
-    <p><b><code>3D Printed DJI Tello Propellers. </code></b></p>
-    <p><i>URL: https://www.youtube.com/watch?v=z6wkOHIcf2Q</i></p>
-  </li> 
-  
-  <li>
-    <p><b><code>NFT Marketplace website using HTML CSS JS </code></b></p>
-    <p><i>URL: https://www.youtube.com/watch?v=f_jQvRUaffo</i></p>
+    <p><b><code>#4 Heat and motion control board - Details of free filament production from recycled bottle (PET).</code></b></p>
+    <p><i>URL: https://www.youtube.com/watch?v=gT5Xld8j5Vw</i></p>
   </li> 
 
 </ul>
