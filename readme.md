@@ -14,18 +14,10 @@ Criação de uma automação para transformação de garrafas pet para filamento
 
 ```mermaid
 flowchart LR
-B[Index]
+B[Marlin]
 
-B --> C{Project}
+B --> C{Configuration.H}
 
-C --> D{Templates}
-D --> E[Product]
-D --> F[MarketPlace]
-
-
-C --> A{Application}
-A --> J[Tello-Default]
-A --> K[Tello-PY]
 ```
 
 
